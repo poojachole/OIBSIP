@@ -37,6 +37,25 @@ This is a Python-based Random Password Generator that creates secure and random 
 4. Run the following command:
    ```bash
    python Python-Task3-PasswordGenerator.py
+
+## Task 4: Basic Weather App (No API Key Required)
+
+### Project Description
+This is a simple Python-based Weather App that fetches and displays live weather information for any city using the public `wttr.in` service, eliminating the need for an API key or external registrations.
+
+### Features
+* Fetches real-time temperature, weather condition, and details.
+* Completely free and does not require an API key or account creation.
+* Utilizes Python's `requests` library.
+* Simple and clean command-line interface.
+
+### How to Run the Code
+1. Ensure Python is installed along with the `requests` library (`pip install requests`).
+2. Open your Terminal or Command Prompt.
+3. Navigate to the project folder.
+4. Run the following command:
+   ```bash
+   python Python-Task4-WeatherApp.py
    
    ### **Author**
 * **Pooja Chole**
