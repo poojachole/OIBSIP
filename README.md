@@ -19,5 +19,24 @@ This is a Python-based Body Mass Index (BMI) calculator that takes input for wei
    ```bash
    python bmi_calculator.py
 
+## Task 3: Random Password Generator
+
+### Project Description
+This is a Python-based Random Password Generator that creates secure and random passwords based on user-defined length and complexity preferences (including uppercase letters, numbers, and special symbols). It includes robust input validation.
+
+### Features
+* Customizable password length.
+* User options to include uppercase letters, numbers, and punctuation symbols.
+* Utilizes Python's built-in `random` and `string` modules.
+* Simple and interactive command-line interface.
+
+### How to Run the Code
+1. Ensure Python is installed on your computer.
+2. Open your Terminal or Command Prompt.
+3. Navigate to the project folder.
+4. Run the following command:
+   ```bash
+   python Python-Task3-PasswordGenerator.py
+   
    ### **Author**
 * **Pooja Chole**
