@@ -1,24 +1,24 @@
 # Oasis Infobyte Python Programming Track
 
-## Task 2: BMI Calculator
+## Task 2: BMI (Body Mass Index) Calculator
 
 ### Project Description
-This is a Python-based Body Mass Index (BMI) calculator that takes input for weight (in kg) and height (in meters) from the user, calculates their BMI, and classifies them into the appropriate health category (Underweight, Normal, Overweight, or Obese). It also includes proper error handling for non-numeric inputs and negative or zero values.
+This is an interactive Python-based BMI (Body Mass Index) Calculator that allows users to calculate their BMI easily. It supports multiple height units (Meters or Feet/Inches) and validates user inputs to ensure accurate calculations and error handling.
 
 ### Features
-* User-friendly command-line interface.
-* Input validation (rejects invalid text, zero, or negative values).
-* Rounds off the BMI value to 2 decimal places.
-* Displays accurate health categories based on standard metrics.
+* **Flexible Unit Selection:** Users can choose between metric units (meters) or imperial units (feet/inches) for height.
+* **Automatic Conversion:** Converts height seamlessly between units to display comprehensive measurement details.
+* **Health Categorization:** Classifies the calculated BMI into standard health categories (Underweight, Normal, Overweight, Obese).
+* **Robust Error Handling:** Validates numeric inputs and prevents negative or zero values for weight and height.
 
 ### How to Run the Code
-1. Ensure Python is installed on your computer.
+1. Ensure Python is installed on your system.
 2. Open your Terminal or Command Prompt.
-3. Navigate to the project folder.
-4. Run the following command:
+3. Navigate to the folder where your file is saved.
+4. Run the script using the following command:
    ```bash
-   python bmi_calculator.py
-
+   python Python-Task2-BMICalculator.py
+   
 ## Task 3: Random Password Generator
 
 ### Project Description
